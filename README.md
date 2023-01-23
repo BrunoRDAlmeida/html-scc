@@ -8,3 +8,7 @@ SITES DE BUSCA DE IMAGENS SEM DIREITOS AUTORAIS
 
 https://www.pexels.com/pt-br/
 https://unsplash.com/
+
+## Desafios
+
+- [Desafio 10](./exercicios/desafios/d010/)
